@@ -8,5 +8,8 @@ A small, fast, and scalable bearbones state management solution. Zustand has a c
 
 Don't disregard it because it's cute, it has claws! Lots of time was spent to deal with common pitfalls, like the dreaded zombie child problem, React concurrency, and context loss between mixed renderers. It may be the one state manager in the React space that gets all of these right.
 
-# INSTALLATION
+# Installation
+
+![](npm.png)
+
 

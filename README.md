@@ -10,6 +10,11 @@ Don't disregard it because it's cute, it has claws! Lots of time was spent to de
 
 # Installation
 
+Zustand is available as a package on NPM for use:
+
 ![](npm.png)
+
+# For more infomation please visit the documentation at:
+https://docs.pmnd.rs/zustand/getting-started/introduction
 
 

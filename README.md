@@ -1,4 +1,4 @@
-# Zustand-Basics
+# Zustand
 
 ![](zustand.png)
 
